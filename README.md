@@ -41,12 +41,23 @@ For Html emails the edit will be using [Unlayer](https://unlayer.com/).
 
 ##	Announcement
 
->	Let the customer know about the upcoming product or service
+>	Let the customer know about the upcoming product or service.
 
 ##	Lead nurturing
 
-> Inform the customer about current events happening within the company
+> Inform the customer about current events happening within the company.
 
 ## Promotional
 
-> Include valuable content (ex: percentage off, coupons, etc.)
+> Include valuable content (ex: percentage off, coupons, etc.).
+
+## Progress
+
+> Progress report sent to the email subscribers as a source of motivation to make it through all stages of the product.
+
+> Make the email subscriber realize they are worth it.
+
+## Feedback/Review request
+
+> Collects customer opinions (preferences, experiences, suggestions, etc.) via questionnaires/forms
+
