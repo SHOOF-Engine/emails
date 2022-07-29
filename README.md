@@ -33,3 +33,19 @@ For Html emails the edit will be using [Unlayer](https://unlayer.com/).
 > Share any new pieces of information of company or industry.
 
 > Sent periodically (ex: weekly, monthly, etc.).
+
+##	Announcement
+
+>	Let the customer know about the upcoming product or service
+
+##	Lead nurturing
+
+> Series of emails with a coherent purpose and useful content
+
+> Inform the customer about current events happening within the company
+
+> Used in B2B to sell products with a longer sales cycle
+
+> Contain free relevant information (like tips) for engaging prospects
+
+
