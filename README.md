@@ -17,4 +17,19 @@ For Html emails the edit will be using [Unlayer](https://unlayer.com/).
 >	Kindly show that the company care about the client.
 
 ## Confirmation 
-> Sent when customers complete a specific action or to confirm the purchase, shipping...etc
+> Sent when customers complete a specific action or to confirm the purchase, shipping...etc.
+
+## Seasonal
+>	Content related to current events (ex: Christmas, Women's Rights Day, etc.).
+
+## Newsletter
+
+> Informs subscribers of new products, promotions, dates to remember, company news.
+
+> Can contain Gifs, mini-quizzes, statistics, videos, etc.
+
+> Pushing content to customers.
+
+> Share any new pieces of information of company or industry.
+
+> Sent periodically (ex: weekly, monthly, etc.).
