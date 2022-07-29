@@ -7,6 +7,8 @@ For Html emails the edit will be using [Unlayer](https://unlayer.com/).
 
 > Makes a first impression.
 
+- Welcome for service
+
 ## Transactional
 
 >	Information that the client wishes to verify or confirm.
