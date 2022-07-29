@@ -50,9 +50,3 @@ For Html emails the edit will be using [Unlayer](https://unlayer.com/).
 ## Promotional
 
 > Include valuable content (ex: percentage off, coupons, etc.)
-
-> Drive sales
-
-> Drive customers to offline destinations 
-
-> Offer personalized experiences
